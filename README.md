@@ -23,7 +23,7 @@ The **Student Information System** is a web-based application designed to manage
 
 You can view a live version of the Student Information System here:
 
-[Live Preview](https://your-live-preview-link.com)
+[Live Preview](https://v0-css-responsiveness.vercel.app/)
 
 ## Usage
 
