@@ -39,7 +39,8 @@
 
 .dark-mode .card,
 .dark-mode .modal-content,
-.dark-mode .notification {
+.dark-mode .notification ,
+.dark-mode .stat-card {
     background-color: #0f172a;
     color: #f8fafc;
 }
@@ -50,7 +51,8 @@
     border-color: #334155;
 }
 
-.dark-mode .form-control:focus {
+.dark-mode .form-control:focus
+ {
     background-color: #1e293b;
 }
 
