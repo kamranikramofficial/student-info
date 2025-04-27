@@ -53,5 +53,5 @@ Passionate about building real-world projects to master frontend development.
 
 ##  Screenshot
 
-![Student Info System Screenshot](./screenshot.png)
+![Student Info System Screenshot](./readme/screenshot.png)
 
